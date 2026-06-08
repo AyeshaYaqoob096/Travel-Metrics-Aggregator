@@ -1,4 +1,4 @@
-Passing Objects as Function Parameters
+## Passing Objects as Function Parameters
 
 ## 📌 Short Description
 This project demonstrates the core concepts of Object-Oriented Programming (OOP) in C++, focusing specifically on class declarations, managing data members, writing member functions, and passing entire objects as arguments to member functions. 
